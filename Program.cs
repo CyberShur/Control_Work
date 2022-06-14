@@ -21,7 +21,7 @@ ResultArray (inputArray, resultArray);
 Console.WriteLine("Итоговый массив: ");
 PrintArray(resultArray);
 
-void ResultArray (string[] array, string[] result)
+void ResultArray(string[] array, string[] result)
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
