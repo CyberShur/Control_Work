@@ -4,5 +4,5 @@
 Примеры: 
 
 ["lello", "2", "world", ":-)"] -> ["2", ":-)"]
-["1234", "1567", "-2", "computer sceince"] -> ["-2" ]
-["Russia", "Denmark", "Kazan"] -> []
+<br>["1234", "1567", "-2", "computer sceince"] -> ["-2" ]
+<br>["Russia", "Denmark", "Kazan"] -> []
